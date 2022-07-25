@@ -1,6 +1,6 @@
-import 'package:weather_app/second.dart';
+import 'package:weather_app/rename.dart';
 import 'package:flutter/material.dart';
-import "second.dart";
+import "rename.dart";
 import 'package:geolocator/geolocator.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
